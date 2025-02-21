@@ -1,8 +1,7 @@
-# Project1-FootballPlayerAbilityAnalysis
-This is a logic-layer implementation for a Football Player Ability Analysis System that helps scouts, managers, and agents evaluate and compare players based on technical, physical, and mental attributes.
-
-## Author
+# FootballPlayerAbilityAnalysis
+This is the project 1 submission for a Football Player Ability Analysis System that helps scouts, managers, and agents evaluate and compare players based on technical, physical, and mental attributes.
 **Qiong Wu**
+
 
 ## **Overview**
 FootballPlayerAbilityAnalysis is an **object-oriented analysis system** built using **ES2024 modules and classes**, designed to improve decision-making in football recruitment and scouting. It supports player classification, score evaluation, AI-based recommendations, and exportable player comparison reports.
@@ -89,7 +88,7 @@ AI assistance (ChatGPT 4 and DeepSeek) was used for:
 
 ## **Resources**
 - Business Requirements: doc/Football Player Ability Analysis System.pdf
-- video: 
+- video: https://drive.google.com/file/d/1Jzw2xOWU1JyYz2RRuEob_Q13asK3knp1/view?usp=sharing
 
 ---
 
