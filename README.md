@@ -21,8 +21,8 @@ FootballPlayerAbilityAnalysis is an **object-oriented analysis system** built us
 ## **Installation & Setup**
 ### **1. Clone the Repository**
 ```bash
-git clone https://github.com/your-repo/Project1-FootballPlayerAbilityAnalysis.git
-cd Project1-FootballPlayerAbilityAnalysis
+git clone https://github.com/qiong-wu-2317/Football-Player-Ability-Analysis-System.git
+cd Football-Player-Ability-Analysis-System
 ```
 
 ### **2. Install Dependencies**
@@ -31,13 +31,7 @@ Ensure you have **Node.js** installed, then run:
 npm install
 ```
 
-### **3. Run the Logic Demo**
-To test logic functionality:
-```bash
-node demo_example/demo.js
-```
-
-### **4. Generate JSDoc Documentation**
+### **3. Generate JSDoc Documentation**
 ```bash
 npx jsdoc . -r -d out
 ```
