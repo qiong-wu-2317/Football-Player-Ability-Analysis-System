@@ -80,15 +80,15 @@ npm test
 
 ## **AI Usage**
 AI assistance (ChatGPT 4 and DeepSeek) was used for:
-- Brainstorming class responsibilities and relationships
-- Creating well-documented JSDoc annotations
-- Creating test file
+- Creating persona and stories, prompts: help me create a manager called Ten Hag based on my business requirment.
+- Creating well-documented JSDoc annotations, Prompts: how to create JSDoc based on my code
+- Creating test file, Prompts: create test files for my code
 
 
 ---
 
 ## **Resources**
-- Business Requirements: doc/Football Player Ability Analysis System.docx
+- Business Requirements: doc/Football Player Ability Analysis System.pdf
 - video: 
 
 ---
